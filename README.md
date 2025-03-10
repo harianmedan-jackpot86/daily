@@ -156,9 +156,6 @@
       Kami berusaha untuk selalu netral dan menghindari bias dalam setiap pemberitaan. Integritas dan kredibilitas adalah fondasi utama yang kami pegang teguh dalam menjalankan tugas sebagai penyaji berita yang profesional.
     </p>
   </article>
-
-
-  </aside>
   <footer>
     <p>&copy; 2025 Harian Medan Jackpot86. All rights reserved.</p>
   </footer>
